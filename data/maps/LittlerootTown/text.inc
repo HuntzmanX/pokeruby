@@ -47,8 +47,7 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:: @ 816AB10
 	.string "Go on, go get them, honey!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:: @ 816AC00
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
+	.string "This is a custom message!\p"
 	.string "The power of science is staggering!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:: @ 816AC56
